@@ -1,0 +1,53 @@
+.a{
+     width: 90%;
+     max-width: 400px;
+     height:auto;
+     min-height: 500px;
+     background-image:url('https://i.pinimg.com/originals/96/df/d4/96dfd411ab0e68f8bc1eb47e4eee8771.gif');
+     background-size: cover;
+     background-position: center;
+     padding: 20px;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.b{
+    color:yellowgreen;
+    text-align: center;
+}
+
+#c{
+    background-color:purple;
+    margin: 5px auto;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    width:90%;
+    max-width: 300px;
+
+    
+}
+
+#weather-result{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    word-wrap: break-word;
+    max-width: 90%;
+}
+
+#city{
+    margin:10px auto;
+    padding: 10px;
+    width: 90%;
+    max-width: 300px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
